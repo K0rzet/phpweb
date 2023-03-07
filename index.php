@@ -25,7 +25,7 @@
                 </a>
             </li>
             <li class="lab__list-item">
-                <a class="lab__card" href="../lab3/php/index.php">
+                <a class="lab__card" href="lab3/php/index.php">
                     <p>Лабораторная работа №3</p>
                 </a>
             </li>
